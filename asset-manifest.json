@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bratorimatori/simple-component-library/static/css/main.795991f2.chunk.css",
+    "main.js": "/bratorimatori/simple-component-library/static/js/main.37a0464e.chunk.js",
+    "main.js.map": "/bratorimatori/simple-component-library/static/js/main.37a0464e.chunk.js.map",
+    "runtime-main.js": "/bratorimatori/simple-component-library/static/js/runtime-main.88ce5e92.js",
+    "runtime-main.js.map": "/bratorimatori/simple-component-library/static/js/runtime-main.88ce5e92.js.map",
+    "static/js/2.85a1b52b.chunk.js": "/bratorimatori/simple-component-library/static/js/2.85a1b52b.chunk.js",
+    "static/js/2.85a1b52b.chunk.js.map": "/bratorimatori/simple-component-library/static/js/2.85a1b52b.chunk.js.map",
+    "index.html": "/bratorimatori/simple-component-library/index.html",
+    "precache-manifest.4a1253bc4b4df6d36c6051d528c91b56.js": "/bratorimatori/simple-component-library/precache-manifest.4a1253bc4b4df6d36c6051d528c91b56.js",
+    "service-worker.js": "/bratorimatori/simple-component-library/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/bratorimatori/simple-component-library/static/css/main.795991f2.chunk.css.map",
+    "static/js/2.85a1b52b.chunk.js.LICENSE.txt": "/bratorimatori/simple-component-library/static/js/2.85a1b52b.chunk.js.LICENSE.txt",
+    "static/js/main.37a0464e.chunk.js.LICENSE.txt": "/bratorimatori/simple-component-library/static/js/main.37a0464e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88ce5e92.js",
+    "static/js/2.85a1b52b.chunk.js",
+    "static/css/main.795991f2.chunk.css",
+    "static/js/main.37a0464e.chunk.js"
+  ]
+}
