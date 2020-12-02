@@ -10,6 +10,4 @@ export interface TestComponentProps {
   text?: string;
 }
 
-export const TestComponent: React.FC<TestComponentProps> = ({ text }) => (
-  <Wrapper>{text ? text : 'Test Component'}</Wrapper>
-);
+export const Test: React.FC<TestComponentProps> = ({ text }) => <Wrapper>{text ? text : 'Test Component'}</Wrapper>;

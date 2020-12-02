@@ -1,2 +1,3 @@
-export { TestComponent } from './components/TestComponent/TestComponent';
-export { H1Component } from './components/H1Component/H1Component';
+export { Test } from './components/TestComponent/Test';
+export { H1 } from './components/H1Component/H1';
+export { Button } from './components/ButtonComponent/Button';
